@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MostMovies+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MostMovies+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:HighRated+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:HighRated+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Favorits+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Favorits+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MovieBoxFinal.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

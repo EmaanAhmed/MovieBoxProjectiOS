@@ -1,0 +1,6 @@
+framework module Pods_MovieBoxFinal_MovieBoxFinalUITests {
+  umbrella header "Pods-MovieBoxFinal-MovieBoxFinalUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

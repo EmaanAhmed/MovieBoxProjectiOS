@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.0.2)
+  - Cosmos (21.0.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftyJSON (4.3.0)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - Cosmos (~> 21.0)
+  - ReachabilitySwift
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON (~> 4.0)
+  - YouTubePlayer
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftyJSON
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 3cfe406ecd296ed627211d97ec84a421c6235c06
+
+COCOAPODS: 1.9.0
